@@ -11,3 +11,56 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+/** main text colors **/
+.text-color-1{
+  color:  #FF6600;
+}
+
+.text-color-2{
+  color:  #F6F6EF;
+}
+
+.text-color-3{
+  color:  white;
+}
+
+.text-color-4{
+  color:  black;
+}
+/** main text colors **/
+
+/** main background colors **/
+.bg-color-1{
+  background-color:  #FF6600!important;
+}
+
+.bg-color-2{
+  background-color:  #F6F6EF!important;
+}
+
+.bg-color-3{
+  background-color:  white!important;
+}
+
+.bg-color-4{
+  background-color:  black!important;
+}
+/** main background colors **/
+
+.logo{
+  border:1px white solid;
+  margin-right: 5px;
+}
+
+.card-header{
+  padding:2px!important;
+}
+
+/** sizes **/
+.size-1{
+  font-size: 10pt;
+}
+/** sizes **/
